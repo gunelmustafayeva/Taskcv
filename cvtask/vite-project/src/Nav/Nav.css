@@ -1,0 +1,18 @@
+nav{
+    width: 58%;
+    height: 100px;
+    background-color: rgb(175, 171, 171);
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+  }
+
+  nav button{
+    width: 10%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+  }
